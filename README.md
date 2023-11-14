@@ -1,11 +1,10 @@
 # [LandingPage-Next1](https://www.youtube.com/watch?v=hJTPDo8JlMc&t=4024s)
- - [NEXT.JS](https://nextjs.org/): Framework FullStack que oferece ferramentas para otimização tanto em Single Page Application, Server Rendered Application ou Static Rendered Application. Ele possui ferramentas para otimização de imagens, minificação de JS e CSS, gestão de rotas, controle de WebVitals, Lazy Loading, componentização, teste e muito mais. Ele também trabalha em arquitetura SERVERLESS (que faz com que a applicação seja STATELESS e tenha cold start). Em outras palavras, como servidor, voce quer que ele resolva problemas de baixo custo de processamento (e ele vai ser mais barato para manter). Atualmente (em 13/11/2023) a Vercel permite Deploy de forma gratuita na nuvem.
+ - [NEXT.JS](https://nextjs.org/): Framework FullStack que oferece ferramentas para otimização tanto em Single Page Application, Server Rendered Application ou Static Rendered Application. Ele possui ferramentas para otimização de imagens, minificação de JS e CSS, gestão de rotas, controle de WebVitals, Lazy Loading, componentização, teste e muito mais. Ele também trabalha em arquitetura SERVERLESS (que faz com que a applicação seja STATELESS e tenha cold start). Em outras palavras, como servidor, voce quer que ele resolva problemas de baixo custo de processamento (e ele vai ser mais barato para manter). Atualmente (em 13/11/2023) a Vercel permite Deploy de forma gratuita na nuvem. No Next a diretiva 'use-client' diz para o renderizador enviar para client-side da applicação
     - [TYPESCRIPT](https://www.typescriptlang.org/): Insere uma camada de abstração extra que torna o JS fortemente tipado: evitando bugs e problemas co-relacionados.
  - [TAILWIND](https://tailwindcss.com/): Insere no projeto estilização inline por classes customizaveis
+   - TAILWIND-TYPOGRAPHY : um submodule instalado aparte para deixar os titulos mais "chamativos".
  - [SHADCN](https://ui.shadcn.com/docs): É uma coleção de componentes prontos.
     - O Shadcn (instalador) é um configurador automatico do tailwind que permite utilizar componentes e estilos prontos da internet. Sua licensa é MIT então voce pode usar sem medo para agilizar as coisas.
     - Exige que voce esteja trabalhando com Tailwind
-
-
-
-<8:38>
+ - Pacote [NEXT-THEMES](https://github.com/pacocoursey/next-themes): Modulo que oferece uma UI PRONTA para lidar com DARK/LIGHT/AUTOMATIC.
+ - [LUCIDE-REACT](https://lucide.dev/): Pacote de icones com licensa aberta para uso ISC... similar ao MIT.
